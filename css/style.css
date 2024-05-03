@@ -166,7 +166,6 @@ main .hero-section {
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;
-	/* height: 47.3125rem; */
 	height: 92vh;
 	color: #ffffff;
 	text-align: center;
@@ -221,9 +220,7 @@ main .hero-section .hero-info h3 {
 
 .info-lg .profile-img {
 display: none;
-/* margin-top: 9.2rem; */
 width: 28rem;
-/* height: 77%; */
 }
 
 
@@ -234,14 +231,14 @@ main .hero-bg {
 	top: 0;
 	z-index: 0;
 	overflow: hidden;
-	height: 100vh;
+	height: 101vh;
 	background-color: #000000;
 }
 
 main .hero-bg .profile-img {
 	width: 100%;
 	position: relative;
-	top: 6.4rem;
+	top: 6.5rem;
 }
 main .hero-bg .profile {
 	background-image: url('../images/Rectangle.png');
@@ -249,7 +246,7 @@ main .hero-bg .profile {
 	background-position: bottom;
 	background-size: 100%;
 	width: 100%;
-	height: 12.5rem;
+	height: 12.8rem;
 	position: absolute;
 	top: 32rem;
 	display: flex;
